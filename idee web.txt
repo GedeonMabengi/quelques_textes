@@ -1,0 +1,5 @@
+pour la navigation du site, au scroll, progrssivement les section aparaisse et augmente de taille
+idea d'un loader avec un texte animer
+pas de scroll juste des partie qui se chevauche
+des elements des card qui apparaisse progressivement au fil que la card aparait entier
+creation d'une foret progressive

@@ -1,0 +1,9 @@
+Le grand Coperant
+Une application qui relie les vendeurs et les acheteurs.
+
+FONCTIONNALITÉS
+Publication d'articles de vente
+Achat d'articles publiés
+Validation de mise en vente d'articles
+Permettre la liaison des chauffeurs des Kasumbalesa et les boutiques de Lubumbashi.
+
